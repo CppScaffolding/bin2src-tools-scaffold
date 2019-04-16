@@ -1,0 +1,4 @@
+## .gitignore file for bin2src-tools-scaffold
+
+## ignore folder fetched through gclient
+bin2src-tools
